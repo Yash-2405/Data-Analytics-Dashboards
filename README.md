@@ -21,7 +21,7 @@ Welcome to my curated collection of **Power BI dashboards**, designed to turn ra
 - Employee headcount, attrition, department-wise KPIs  
 - Drilldowns by role, education, and tenure  
 - Designed for HR decision-makers  
-🎥 **[Watch Demo](https://your-video-link.com)**  
+🎥 **[Watch Demo](https://drive.google.com/file/d/1N99VMchESZwPH_5KZ6kKnByuCViR4rop/view?usp=drive_link)**  
 📂 `hr-analytics-dashboard.pbix`
 
 ---
