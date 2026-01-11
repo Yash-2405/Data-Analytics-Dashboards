@@ -36,6 +36,21 @@ Welcome to my curated collection of **Power BI dashboards**, designed to turn ra
 
 ---
 
+### 🛒 Retail Sales Analytics Dashboard (Blinkit-Inspired)
+📌 **Features**:
+- Sales analysis across outlet size, outlet type, and location tiers
+- KPI tracking for Total Sales, Avg Sales, No of Items, and Avg Rating
+- Outlet establishment trend analysis over time
+- Interactive buttons and bookmarks for metric switching and navigation
+- Clean filter panel and business-focused layout
+
+## 📚 Data & visualization reference: Dataset and some visualization ideas sourced from the Data Tutorials YouTube channel, with independent dashboard design and implementation in Power BI.
+
+🎥 **[Watch Demo](https://drive.google.com/file/d/1kaQ_PFG8weCCOAJb9AMyxHbsSjwATGI5/view?usp=drive_link)**
+📂 blinkit-retail-dashboard.pbix
+
+---
+
 ## 🛠️ Tools & Techniques Used
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
